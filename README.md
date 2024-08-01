@@ -1,6 +1,6 @@
 # Video Generator
 
-This project generates a video based on a user-provided text input. The text is refined, split into segments, converted into images and audio, and finally combined into a video. The project leverages OpenAI's GPT-3 for text processing, DALL-E for image generation, and Google's Text-to-Speech API for audio synthesis.
+This project generates a video based on a user-provided text input. The text is refined, split into segments, converted into images and audio, and finally combined into a video. The project leverages OpenAI's GPT-4o for text processing, DALL-E for image generation, and Google's Text-to-Speech API for audio synthesis.
 
 ## Table of Contents
 
